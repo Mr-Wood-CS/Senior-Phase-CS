@@ -1,0 +1,56 @@
+# Development Methodologies
+
+## What is a Development Methodology?
+
+A Development Methodology is how you systematically approach solving and creating a solution to a problem.  Human nature is to jump in and start working without thinking and planning which can often lead to problems and errors.
+
+When developing Computer Systems there needs to be a lot of planning as real world systems are of a huge size, are complex and have massive technological importance in all areas of our lives. For example:
+
+<p style="text-align:center;"><span style="color: #6191F8"> Databases could contain millions of customers and be vital to a multi-million pound business.</p>
+
+<p style="text-align:center;"><span style="color: #6191F8"> Website could have billions of users and need to do hundreds of thousand transactions a day.  </p>
+
+<p style="text-align:center;"><span style="color: #6191F8"> A Website could have billions of users and need to do hundreds of thousand transactions a day. </p>
+
+<p style="text-align:center;"><span style="color: #6191F8"> Software programs can easily have multi-millions lines of code that can be responsible for many thousands of operations, even affecting life or death situations.</p>
+
+Due to the scale, cost, frequency of problems and long timescales involved in Software and Information System development there has to be a “methodical” approach.  
+
+At this level of study you need to be able to describe and compare the following two:
+Iterative development process (waterfall method)
+Agile methodologies
+
+!!! info
+
+	At this level of study you need to be able to describe and compare the following two:
+
+	
+	<p style="text-align:center;"><span style="color: #6191F8"> Iterative Development Process (waterfall method)</p>
+
+	<p style="text-align:center;"><span style="color: #6191F8">Agile Methodologies</p>
+	
+
+## Iterative Development Process (Waterfall Model) 
+
+
+The Waterfall model is a structured, linear approach to software development. In this methodology, the stages followed include analysis, design, implementation, testing, documentation, evaluation, and maintenance. Although the process is often referred to as iterative because stages can be revisited, one of its main challenges is that these stages are followed sequentially.
+
+As development progresses, new ideas and requirements will often emerge that were not foreseen during the initial planning stages. This leads to the need to revisit earlier phases of the project to address new issues and correct errors which slows the development process considerably. 
+
+As a result, the Waterfall model is often criticized for being overly rigid, slow, and dependent on excessive documentation as each step strictly follows the last.
+
+##  Agile Methodologies
+
+Agile methodologies generally follow the same development stages (Analysis, Design, Implementation, Testing, Documentation, Evaluation, and Maintenance) but approach them more flexibly. The focus is on quickly getting started while allowing movement between stages as needed. This iterative process enables collaboration between different developer teams, allowing the project’s requirements and solution to evolve step by step.
+
+The Agile methodology places a strong emphasis on teamwork, with regular interaction among developers and frequent engagement with clients or users to create prototypes. 
+
+By showing working prototypes as the system develops, teams can gather real-time feedback, allowing for adjustments and improvements throughout the process. 
+
+!!! info
+	
+	<p style="text-align:center;"><span style="color: #6191F8"> A key aspect of agile methodologies is their ability to respond to change, recognizing that requirements are often fluid and that software projects are inherently dynamic.)</p>
+
+Rapid Application Development (RAD) is one such example of an agile approach to software and information system creation. Its primary goal is to implement solutions quickly, minimizing upfront planning. RAD involves producing incremental versions or prototypes to refine requirements and address issues as they arise.
+
+While RAD can significantly reduce development time, it may lead to an overemphasis on the Graphical User Interface (GUI) rather than the core functionality of the software. Continuous iteration can also result in a disorganized process, increased errors, and long-term maintenance challenges. Therefore, RAD is best suited for smaller, dynamic projects like apps or websites, but is less ideal for large-scale or mission-critical systems.
